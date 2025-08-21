@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @srdrkbs
-- 👀 I’m interested in .Net Blazor development and lite database design
-- 🌱 I’m currently working on .Net 9 Projects
+- 👀 I’m interested in Software Architecture and multi-layer applications over .Net and Blazor now curious about React 
+- 🌱 I’m currently working on Big Architecture, Scalable Data layers and local AI solutions
 - 💞️ I’m looking to collaborate on New Projects
 - 📫 How to reach me on Linkedin.com/in/serdarakbas/
 
