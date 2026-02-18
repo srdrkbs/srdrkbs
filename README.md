@@ -50,7 +50,6 @@ Tecrübeli bir yazılım geliştirici olarak, özellikle **Çok Katmanlı Mimari
 
 ### 📊 GitHub İstatistiklerim
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srdrkbs&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srdrkbs&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
-</div>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=srdrkbs&show_icons=true&theme=radical&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srdrkbs&layout=compact&theme=radical&hide_border=true)
