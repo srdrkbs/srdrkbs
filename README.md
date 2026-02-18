@@ -47,9 +47,3 @@ Tecrübeli bir yazılım geliştirici olarak, özellikle **Çok Katmanlı Mimari
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 
 ---
-
-### 📊 GitHub İstatistiklerim
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=srdrkbs&show_icons=true&theme=radical&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srdrkbs&layout=compact&theme=radical&hide_border=true)
